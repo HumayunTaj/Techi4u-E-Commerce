@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875443351989",
+    "project_id": "techi4u-e-commerce",
+    "storage_bucket": "techi4u-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875443351989:android:0ac8ee87ddd9154f1769fc",
+        "android_client_info": {
+          "package_name": "com.example.techi4u_e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr9kPxTcefqirjHIBGGB0FKUfLAlQmbkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
